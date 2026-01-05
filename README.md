@@ -1,15 +1,11 @@
 ## Hi there, I'm Tawanda. Nice to meet you. 👋
-
-
-<!--
-💫 About Me:
-<br>Experienced software developer with proficiency and understanding of many languages and with Bsc. in Computer Science <br>.
+#💫 About Me:
+<br>Experienced software developer with proficiency in some languages and some knowledge in web development and data science. <br>.
 
 - 🔭 I’m currently working on becoming a full stack web developer.
 - 🌱 I’m currently learning python for scripting, web development and data science...
 - 👯 I’m looking to collaborate on anything challenging, so I can become a better programmer.
-- ⚡ Fun fact: 
--->
+- ⚡ Fun fact: I might not be the smartest person in the room but I work hard to make sure I belong in there.
 
 
 ## 🌐 Socials:
