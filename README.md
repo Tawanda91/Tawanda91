@@ -1,7 +1,7 @@
 ## Hi there, I'm Tawanda. Nice to meet you. 👋
 # 💫 About Me:
-<br>Experienced software developer with proficiency in some languages and some knowledge in web development and data science. <br>.
-<br> Please feel free to fork any repo, just add more features to it and make it yours. <br>
+<br>Experienced software developer with proficiency in a variety of programming languages and some knowledge in web development and data science.
+<br> Please feel free to fork any repo, don't be lazy to add a feature and learn more. Learning never stops in this industry. <br>
 
 - 🔭 I’m currently working on becoming a full stack web developer.
 - 🌱 I’m currently learning web development languages and python for scripting, web development and data science...
