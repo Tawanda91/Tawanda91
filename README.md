@@ -1,5 +1,5 @@
 ## Hi there, I'm Tawanda. Nice to meet you. 👋
-#💫 About Me:
+# 💫 About Me:
 <br>Experienced software developer with proficiency in some languages and some knowledge in web development and data science. <br>.
 
 - 🔭 I’m currently working on becoming a full stack web developer.
